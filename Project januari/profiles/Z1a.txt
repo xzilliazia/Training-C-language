@@ -1,0 +1,11 @@
+name: Z1a
+hp: 100
+maxHp: 100
+stamina: 50
+maxStamina: 50
+attack: 20
+defense: 10
+level: 1
+potions: 3
+superPotions: 2
+hyperPotions: 1
