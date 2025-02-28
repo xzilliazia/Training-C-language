@@ -1,3 +1,0 @@
-Function|printf|menampilkan suatu keluaran pada layar berdasarkan suatu penentu format
-Function|printf|menampilkan suatu keluaran pada layar berdasarkan suatu penentu format
-akaa|45|new
