@@ -1,0 +1,12 @@
+
+ID: 11
+Nama: jh
+Kategori: gfxh
+Harga: 4675.000
+Stok: 7
+
+ID: 2
+Nama: erges
+Kategori: gukjy
+Harga: 234.000
+Stok: 5
